@@ -68,3 +68,22 @@ footer {
 #footer-logo {
   max-height: 90vh;
 }
+
+.nav-cocktail {
+  background-color: #0a8920;
+}
+
+.header-cocktail {
+  height: 100vh;
+  background-color: #0a8920;
+}
+.h2-cocktail {
+  color: #0a8920;
+  font-weight: 700;
+}
+
+.cocktail-bg {
+  color: white;
+  font-weight: 500;
+  background-color: #0a8920;
+}
